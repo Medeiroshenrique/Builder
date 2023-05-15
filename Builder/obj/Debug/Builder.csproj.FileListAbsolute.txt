@@ -1,0 +1,6 @@
+/home/henrique_medeiros/RiderProjects/Builder/Builder/bin/Debug/Builder.exe
+/home/henrique_medeiros/RiderProjects/Builder/Builder/bin/Debug/Builder.pdb
+/home/henrique_medeiros/RiderProjects/Builder/Builder/obj/Debug/Builder.csproj.AssemblyReference.cache
+/home/henrique_medeiros/RiderProjects/Builder/Builder/obj/Debug/Builder.csproj.CoreCompileInputs.cache
+/home/henrique_medeiros/RiderProjects/Builder/Builder/obj/Debug/Builder.exe
+/home/henrique_medeiros/RiderProjects/Builder/Builder/obj/Debug/Builder.pdb
